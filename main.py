@@ -14,8 +14,8 @@ LICENSE_FILE = "LICENSE"
 
 ABOUT_INFO = {
     "version": "1.0",
-    "creator": "Your Name",
-    "copyright": "© 2025 Your Name. All rights reserved.",
+    "creator": "ReJaad",
+    "copyright": "© 2025 ReJaad.",
     "website": "https://github.com/rejaad/Re-Archive"
 }
 
